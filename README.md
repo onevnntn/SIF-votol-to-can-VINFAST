@@ -56,3 +56,4 @@ Mạch trung gian sử dụng vi điều khiển **STM32F103C8T6 (Blue Pill)** k
   msg.data[0] = speed_to_hmi >> 8;   // Byte cao
   msg.data[1] = speed_to_hmi & 0xFF;  // Byte thấp
   
+Dự án phục vụ mục đích nghiên cứu học thuật và tham khảo. Tác giả không chịu trách nhiệm đối với bất kỳ rủi ro, hư hỏng thiết bị hoặc mất an toàn giao thông nào phát sinh khi người dùng áp dụng thực tế
