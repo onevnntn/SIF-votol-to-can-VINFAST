@@ -1,3 +1,6 @@
+ủng hộ mình nếu thấy có ích
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3ab6c50e-0783-4ad7-8861-2cce75575c91" />
+
 # Giải Mã Tín Hiệu SIF Votol & Chuyển Đổi CAN Bus Cho Màn Hình VinFast Evo200
 
 Dự án này cung cấp giải pháp độ chế/thay thế IC điều tốc (Controller Votol) cho dòng xe máy điện **VinFast Evo200** mà vẫn giữ nguyên màn hình hiển thị nguyên bản (HMI / Đồng hồ xe) hoạt động mượt mà. 
@@ -52,3 +55,4 @@ Mạch trung gian sử dụng vi điều khiển **STM32F103C8T6 (Blue Pill)** k
   ```cpp
   msg.data[0] = speed_to_hmi >> 8;   // Byte cao
   msg.data[1] = speed_to_hmi & 0xFF;  // Byte thấp
+  
