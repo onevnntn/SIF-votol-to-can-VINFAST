@@ -1,4 +1,4 @@
-ủng hộ mình nếu thấy có ích
+ủng hộ mình nếu thấy có ích zalo : 0844491666 tôi sẽ trả lời khi rảnh do ko có thời gian theo vì  phải kiếm tiền 
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3ab6c50e-0783-4ad7-8861-2cce75575c91" />
 
 # Giải Mã Tín Hiệu SIF Votol & Chuyển Đổi CAN Bus Cho Màn Hình VinFast Evo200
